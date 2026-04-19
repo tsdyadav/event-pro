@@ -4,9 +4,9 @@ import { useState } from "react";
 import Image from "next/image";
 
 const slides = [
-  { id: 1, img: "/images/kids1.jpg", title: "Kid's Birthday" },
-  { id: 2, img: "/images/kids2.jpg", title: "Fun Party" },
-  { id: 3, img: "/images/kids3.jpg", title: "Happy Moments" },
+  { id: 1, img: "/assets/kids1.png", title: "Kid's Birthday" },
+  { id: 2, img: "/assets/kids1.png", title: "Fun Party" },
+  { id: 3, img: "/assets/kids1.png", title: "Happy Moments" },
 ];
 
 export default function KidsDecorations() {

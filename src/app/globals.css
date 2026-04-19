@@ -35,3 +35,12 @@ a {
     @apply text-xs font-semibold uppercase tracking-[0.24em] text-brand-600;
   }
 }
+/* Hide scrollbar but still allow scrolling */
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  -ms-overflow-style: none;  /* IE & Edge */
+  scrollbar-width: none;     /* Firefox */
+}

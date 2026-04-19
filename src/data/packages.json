@@ -1,0 +1,148 @@
+[
+  {
+    "id": "pkg-001",
+    "slug": "minnie-mouse-birthday-party",
+    "category": "Kids Birthday",
+    "categorySlug": "kids-birthday",
+    "title": "Minnie Mouse Themed Birthday Party",
+    "shortDescription": "A playful pink birthday setup with balloon styling, backdrop decor, and a themed focal zone.",
+    "description": "Designed for premium at-home birthdays with a polished photo corner, custom styling layers, and upsell-ready add-on slots.",
+    "basePrice": 2499,
+    "originalPrice": 4999,
+    "rating": 4.8,
+    "reviewCount": 126,
+    "heroImage": "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      {
+        "id": "pkg-001-img-1",
+        "url": "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?auto=format&fit=crop&w=600&q=80",
+        "alt": "Kids birthday decor scene"
+      },
+      {
+        "id": "pkg-001-img-2",
+        "url": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=600&q=80",
+        "alt": "Birthday balloons"
+      },
+      {
+        "id": "pkg-001-img-3",
+        "url": "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?auto=format&fit=crop&w=600&q=80",
+        "alt": "Cake table decor"
+      }
+    ],
+    "includedItems": ["Balloon ring", "Theme backdrop", "Cake table decor", "Welcome signage"],
+    "addons": [
+      { "id": "addon-1", "name": "Photo booth corner", "price": 999 },
+      { "id": "addon-2", "name": "Return gift table styling", "price": 799 }
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "pkg-002",
+    "slug": "romantic-candlelight-surprise",
+    "category": "Romantic Couple",
+    "categorySlug": "romantic-couple",
+    "title": "Romantic Candlelight Surprise",
+    "shortDescription": "A warm candlelit evening setup for rooftop and private indoor celebrations.",
+    "description": "Built for anniversary surprises and intimate couple experiences with floral styling and soft ambience.",
+    "basePrice": 4499,
+    "originalPrice": 6999,
+    "rating": 4.9,
+    "reviewCount": 82,
+    "heroImage": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      {
+        "id": "pkg-002-img-1",
+        "url": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=600&q=80",
+        "alt": "Romantic setup"
+      },
+      {
+        "id": "pkg-002-img-2",
+        "url": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=600&q=80",
+        "alt": "Dinner atmosphere"
+      },
+      {
+        "id": "pkg-002-img-3",
+        "url": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=600&q=80",
+        "alt": "Decor and lights"
+      }
+    ],
+    "includedItems": ["Candles", "Rose petals", "Personalized message area", "Ambient lighting"],
+    "addons": [
+      { "id": "addon-3", "name": "Live musician corner", "price": 2499 },
+      { "id": "addon-4", "name": "Premium flower styling", "price": 1599 }
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "pkg-003",
+    "slug": "wedding-stage-decoration",
+    "category": "Wedding Decoration",
+    "categorySlug": "wedding-decoration",
+    "title": "Wedding Stage Decoration",
+    "shortDescription": "A premium floral and stage decor layout for wedding halls and intimate venues.",
+    "description": "Structured for high-visual-impact weddings with detailed floral layers, stage depth, and clean service-led presentation.",
+    "basePrice": 14999,
+    "originalPrice": 19999,
+    "rating": 4.7,
+    "reviewCount": 58,
+    "heroImage": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      {
+        "id": "pkg-003-img-1",
+        "url": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=600&q=80",
+        "alt": "Wedding decor"
+      },
+      {
+        "id": "pkg-003-img-2",
+        "url": "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=600&q=80",
+        "alt": "Wedding floral setup"
+      },
+      {
+        "id": "pkg-003-img-3",
+        "url": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=600&q=80",
+        "alt": "Wedding event design"
+      }
+    ],
+    "includedItems": ["Stage backdrop", "Entry florals", "Dining decor accents"],
+    "addons": [
+      { "id": "addon-5", "name": "Bridal entry pathway", "price": 3999 }
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "pkg-004",
+    "slug": "rooftop-birthday-decoration",
+    "category": "Rooftop Decoration",
+    "categorySlug": "rooftop-decoration",
+    "title": "Rooftop Birthday Celebration Setup",
+    "shortDescription": "A premium rooftop decor package with warm lighting and intimate lounge styling.",
+    "description": "Created for evening events, private surprise parties, and photo-friendly rooftop memories.",
+    "basePrice": 5999,
+    "originalPrice": 7999,
+    "rating": 4.6,
+    "reviewCount": 49,
+    "heroImage": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      {
+        "id": "pkg-004-img-1",
+        "url": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=600&q=80",
+        "alt": "Rooftop party decor"
+      },
+      {
+        "id": "pkg-004-img-2",
+        "url": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=600&q=80",
+        "alt": "Rooftop dining"
+      },
+      {
+        "id": "pkg-004-img-3",
+        "url": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=600&q=80",
+        "alt": "Night event setup"
+      }
+    ],
+    "includedItems": ["Fairy lights", "Seating accents", "Photo corner", "Ambient decor"],
+    "addons": [
+      { "id": "addon-6", "name": "Live dessert cart", "price": 3499 }
+    ],
+    "isFeatured": false
+  }
+]

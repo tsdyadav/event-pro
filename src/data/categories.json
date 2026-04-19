@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cat-kids",
+    "slug": "kids-birthday",
+    "name": "Kid's Theme Decoration",
+    "description": "Popular cartoon, princess, superhero, and character-led setups for birthdays.",
+    "image": "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "cat-romantic",
+    "slug": "romantic-couple",
+    "name": "Romantic Couple Experience",
+    "description": "Private surprise setups, candles, balloons, and intimate celebration styling.",
+    "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "cat-wedding",
+    "slug": "wedding-decoration",
+    "name": "Wedding Decoration",
+    "description": "Elegant wedding backdrops, dining setups, and immersive decor experiences.",
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "cat-rooftop",
+    "slug": "rooftop-decoration",
+    "name": "Rooftop Decoration",
+    "description": "Open-air celebrations with warm lighting, lounge styling, and premium setups.",
+    "image": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "cat-festival",
+    "slug": "festival-special",
+    "name": "Festival Decoration",
+    "description": "Colorful event themes for Diwali, Holi, and family-focused festive moments.",
+    "image": "https://images.unsplash.com/photo-1604427728074-4aeff36cd12d?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "cat-bachelor",
+    "slug": "bachelor-party",
+    "name": "Bachelor's Party Decoration",
+    "description": "Playful party setups designed for friend groups, surprise nights, and celebration zones.",
+    "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=900&q=80"
+  }
+]

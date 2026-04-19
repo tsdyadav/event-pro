@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 120" role="img" aria-labelledby="title">
+  <title>DKGPro Logo</title>
+  <defs>
+    <linearGradient id="heartGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f44fa5"/>
+      <stop offset="100%" stop-color="#8f5cf8"/>
+    </linearGradient>
+    <linearGradient id="giftGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff6eb4"/>
+      <stop offset="100%" stop-color="#b36dff"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9c4fff"/>
+      <stop offset="55%" stop-color="#b46cff"/>
+      <stop offset="100%" stop-color="#ff3d8d"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(20,10)">
+    <path d="M85 18
+      C64 0 33 4 33 35
+      C33 64 85 96 85 96
+      C85 96 137 64 137 35
+      C137 4 106 0 85 18
+      Z"
+      fill="url(#heartGrad)"/>
+    <path d="M33 35
+      C33 14 55 6 73 24
+      C91 6 113 14 113 35
+      C113 54 85 79 85 79
+      C85 79 85 79 73 68
+      C61 79 61 79 61 79
+      C61 79 33 54 33 35
+      Z"
+      fill="#fff" opacity="0.14"/>
+    <g transform="translate(45,46)">
+      <rect x="0" y="0" width="42" height="30" rx="6" fill="url(#giftGrad)"/>
+      <path d="M0 10 H42" stroke="#fff" stroke-width="4"/>
+      <path d="M21 0 V40" stroke="#fff" stroke-width="4"/>
+      <path d="M21 0 C26 -8 34 -10 38 0" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+      <path d="M21 0 C16 -8 8 -10 4 0" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="10" cy="18" r="3" fill="#fff" opacity="0.85"/>
+      <circle cx="33" cy="18" r="3" fill="#fff" opacity="0.85"/>
+    </g>
+  </g>
+
+  <text x="175" y="70" font-family="Inter, sans-serif" font-size="52" font-weight="800" fill="url(#textGrad)">DKG</text>
+  <text x="330" y="70" font-family="Inter, sans-serif" font-size="52" font-weight="500" fill="#ff4e98">Pro</text>
+</svg>

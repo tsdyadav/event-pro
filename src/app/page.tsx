@@ -25,7 +25,7 @@ import FestivalSection from "@/components/home/FestivalSection";
 
 export default function HomePage() {
   return (
-    <main className="pb-10">
+    <main className="">
       <Navbar />
       <HeroBanner />
       <KidsSection />

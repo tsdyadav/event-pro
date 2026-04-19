@@ -4,7 +4,7 @@ import { Linkedin, Facebook, Dribbble, X } from "lucide-react";
 
 export default function Footer() {
   return (
-    <footer className="bg-[#0c2d57] text-white px-[60px] pt-[60px] pb-[20px]">
+    <footer className="bg-[#0c2d57] text-white px-[60px] pt-[60px] pb-[20px] ">
 
       {/* TOP SECTION */}
       <div className="grid grid-cols-4  items-start">

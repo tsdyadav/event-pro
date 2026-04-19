@@ -12,6 +12,8 @@ body {
   background-image:
     radial-gradient(circle at top, rgba(235, 78, 167, 0.1), transparent 32%),
     radial-gradient(circle at bottom, rgba(156, 86, 255, 0.08), transparent 28%);
+    margin: 0px;
+ 
 }
 
 a {
